@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Mini_project_Note_App_np.NavyPage"
+             Title="Navy Seals"
+             BackgroundColor="White"
+             >
+    <VerticalStackLayout>
+
+        <Image Source="Resources\AppIcon\2639912_save_icon.svg"/>
+
+    </VerticalStackLayout>
+</ContentPage>
